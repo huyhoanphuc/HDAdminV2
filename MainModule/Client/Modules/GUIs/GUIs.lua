@@ -12,7 +12,7 @@ local subPageOrders = {
 	["Commands"] = {"Commands", "Morphs", "Details"};
 	["Special"] = {"Donor", "Coming soon"};
 	["Admin"] = {"Ranks", "Server Ranks", "Banland"};
-	["Settings"] = {"Custom"};
+	["Settings"] = {"/"};
 }
 local mainFrame = main.gui.MainFrame
 local TopBarFrame = main.gui.CustomTopBar
